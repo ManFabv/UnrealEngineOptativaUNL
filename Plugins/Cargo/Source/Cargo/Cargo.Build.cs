@@ -41,6 +41,7 @@ public class Cargo : ModuleRules
                 "Slate",
                 "SlateCore",
                 "ToolMenus",
+                "AssetTools",
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);
